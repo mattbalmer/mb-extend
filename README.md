@@ -74,3 +74,11 @@ Any instances of your subclass will also have access to the parent class via `in
     var car = new Car('Honda', 'Accord');
 
     console.log( car.parent == Vehicle );   // true
+    
+
+## Contact & License Info
+
+Author: Matthew Balmer  
+Twitter: [@mattbalmer](http://twitter.com/mattbalmer)  
+Website: [http://mattbalmer.com](http://mattbalmer.com)  
+License: MIT
