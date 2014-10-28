@@ -1,6 +1,6 @@
 {
     "name": "mb-extend",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Super-lightweight inheritance framework for JavaScript",
     "devDependencies": {
         "karma": "^0.12.12",
